@@ -11,7 +11,12 @@ CVPro is a modern, responsive web application that allows users to build profess
 - 💡 **User-Friendly Interface** – No technical expertise required to build your resume.
 
 ## 📸 Screenshots
-> _Add screenshots of your app's UI here (optional)_
+![image](https://github.com/user-attachments/assets/0a9ebcd8-4738-44a4-92b1-a38c04d266ff)
+![image](https://github.com/user-attachments/assets/b39f0bb9-e4ca-461a-b8af-4f0249cbf79f)
+![image](https://github.com/user-attachments/assets/0c2186e1-2a61-4d6b-8da3-292f68babe9b)
+
+
+
 
 ## 🛠️ Technologies Used
 
